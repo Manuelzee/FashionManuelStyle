@@ -31,6 +31,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- The design inspiration for this project came from various fashion websites and portfolios.
-- Special thanks to [Name of any libraries or frameworks used] for their contributions to web development.
+- The design inspiration for this project came from htmlcodex fashion template which was cloned and redesigned.
+- Special thanks to Bootstrap for their contributions to web development.
 
